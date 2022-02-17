@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "jquery", "~> 0.0.1"
+
+gem "jquery-rails", "~> 4.4"
